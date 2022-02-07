@@ -1,0 +1,1 @@
+JSON -> JavaScript Object Notation,  a standard way to store data across different platforms.
