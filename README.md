@@ -1,1 +1,1 @@
-# Exploratory-Data-Analysis-for-Machine-Learning
+# Exploratory-Data-Analysis-for-Machine-Learning-Course
